@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "duckworth-kids-activities",
     "public": "public",
     "ignore": [
       "firebase.json",
