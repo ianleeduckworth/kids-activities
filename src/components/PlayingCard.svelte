@@ -72,11 +72,6 @@ NOTE: this component does not maintain its own state regarding being flipped. Th
 		transform: rotateY(180deg);
 	}
 
-	.card-image {
-		max-width: 100px;
-		max-height: 100px;
-	}
-
 	.pattern {
 		width: 100%;
 		height: 100%;
